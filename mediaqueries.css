@@ -127,6 +127,7 @@
         flex-wrap: wrap;
         margin-bottom: 0vh;
         padding-top: 2vh;
+        size: 100px
     }
     .contact-details{
         display: flex;
